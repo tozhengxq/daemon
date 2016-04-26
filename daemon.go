@@ -1,4 +1,4 @@
-package daemon
+package godaemon
 
 import (
 	"os/exec"
