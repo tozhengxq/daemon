@@ -2,7 +2,7 @@
 Daemonize Go applications with 
 
 # Usage
-go get github.com/tozhengxq/damon
+go get github.com/tozhengxq/godamon
 
 ``` python
 // test.go
@@ -10,7 +10,7 @@ package main
 import (
     "fmt"
     "time"
-    _ "github.com/tozhengxq/daemon"
+    _ "github.com/tozhengxq/godaemon"
 )
 func main(){
     for {
